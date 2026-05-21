@@ -4,8 +4,8 @@ A/B test analysis of a software pricing experiment ($39 vs $59) — evaluating r
 ## Pricing A/B Test Analysis
 
 Analysis of a pricing experiment run by Company XYZ to determine whether
-raising software price from $39 to $59 would increase revenue. 66% of users
-saw the original price, 33% saw the higher price.
+raising software price from $39 to $59 would increase revenue. Approximately
+66% of users saw the original price, and approximately 33% saw the higher price.
 
 ## Objectives
 - Recommend the optimal price point ($39 vs $59) based on revenue, not just conversion
